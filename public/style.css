@@ -6,6 +6,7 @@
 }
 
 body {
+    margin:10vh auto;
     text-align: center;
 }
 
@@ -21,3 +22,8 @@ ul li {
     display: inline-block;
     padding: 2% 5% 2% 1%;
 }
+
+h6 {
+    margin: 25vh;
+    text-align: center;
+    }
